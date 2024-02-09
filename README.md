@@ -36,4 +36,4 @@ Processed data is stored in a SQL database for easy access and retrieval.
 # Data Presentation: 
 Users can view the extracted information from business cards via the Streamlit interface, allowing for quick verification and review.
 
-#  Overall, Bizcard aims to streamline and automate the process of extracting key details from business card images, enhancing efficiency and accuracy in managing business card information.
+Overall, Bizcard aims to streamline and automate the process of extracting key details from business card images, enhancing efficiency and accuracy in managing business card information.
