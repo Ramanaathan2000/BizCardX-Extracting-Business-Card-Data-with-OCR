@@ -60,4 +60,13 @@ Overall, Bizcard aims to streamline and automate the process of extracting key d
 ![delete of saved data from sql](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/29a3138a-d37f-463a-9f06-45a08160038f)
 
 
+# Result
+In this project we can able to  extract text data ,Image data from business card and we can able to modify the details of the business card by using EASYOCR and for collected data storage I have used SQLLITE3.
+
+# For Any query
+Project done by : Ramanaathan Srinivasan
+Email id :Ramanaathan1@gmail.com
+Linkedin : https://www.linkedin.com/in/ramanaathan-s-61425117b/
+
+
 
