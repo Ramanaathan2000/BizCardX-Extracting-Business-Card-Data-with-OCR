@@ -1,5 +1,5 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
-#### ABOUT
+# ABOUT
 Bizcard is a Python application developed to streamline the extraction of essential information from business card images using Optical Character Recognition (OCR) technology. By integrating technologies like Python, EasyOCR, Streamlit, SQL, and Pandas, Bizcard offers a robust solution for automating the tedious task of manually inputting data from business cards.
 
 Here's a breakdown of the key components and functionalities of Bizcard:
@@ -21,14 +21,19 @@ Pandas is utilized for data manipulation and analysis tasks within Bizcard. It o
 
 # Functionality-wise, Bizcard offers the following capabilities:
 
-# 1. Image Upload:Users can upload business card images through the Streamlit interface.
+# Image Upload:
+Users can upload business card images through the Streamlit interface.
 
-# 2.Text Extraction:Bizcard employs EasyOCR to extract text from uploaded business card images.
+# Text Extraction:
+Bizcard employs EasyOCR to extract text from uploaded business card images.
 
-# 3.Data Processing: Extracted text data is processed and structured into relevant fields such as name, designation, company, contact information, etc.
+# Data Processing:
+Extracted text data is processed and structured into relevant fields such as name, designation, company, contact information, etc.
 
-# 4. Data Storage: Processed data is stored in a SQL database for easy access and retrieval.
+# Data Storage:
+Processed data is stored in a SQL database for easy access and retrieval.
    
-# 5. Data Presentation: Users can view the extracted information from business cards via the Streamlit interface, allowing for quick verification and review.
+# Data Presentation: 
+Users can view the extracted information from business cards via the Streamlit interface, allowing for quick verification and review.
 
-# 6. Overall, Bizcard aims to streamline and automate the process of extracting key details from business card images, enhancing efficiency and accuracy in managing business card information.
+#  Overall, Bizcard aims to streamline and automate the process of extracting key details from business card images, enhancing efficiency and accuracy in managing business card information.
