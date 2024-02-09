@@ -1,4 +1,6 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
+![business card](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/062a0c1f-5c6a-4d21-bcdc-fc90e546470f)
+
 # ABOUT
 Bizcard is a Python application developed to streamline the extraction of essential information from business card images using Optical Character Recognition (OCR) technology. By integrating technologies like Python, EasyOCR, Streamlit, SQL, and Pandas, Bizcard offers a robust solution for automating the tedious task of manually inputting data from business cards.
 
