@@ -43,23 +43,28 @@ Overall, Bizcard aims to streamline and automate the process of extracting key d
 # STEP BY STEP PROCESS OF PROJECT EXPLANATION
 # ABOUT
 
-![ABOUT ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/b030d1a4-bbb3-49d5-9c7c-33ed235b6cf6) 
+![ABOUT ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/65e64440-1f16-42a2-8a38-09b547d44b91)
+
 
 # BEFORE UPLOADING BUSINESS CARD 
-![Before uploading business card](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/1bb7c1a9-99b2-41b3-a63b-f035b52e76cd)
+
+![Before uploading business card](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/ec333e75-0ddc-4df7-98d3-97e926960ae3)
 
 # AFTER UPLOADING BUSINESS CARD 
 
-![After uploading business card ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/b9ba6166-f351-47e2-ac37-75836c97d998)
+![After uploading business card ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/a76cbe0f-10b3-4a91-9f77-f449ed539f6a)
+
 
 # MODIFING OF BUSINESS CARD DATA DETAILS
 
-![Modification of business card data](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/4fec75ad-46ea-4cd5-9a64-6b3346e41f3a)
+
+![Modification of business card data](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/951e217c-0598-4847-b473-d398d2780aec)
 
 # DATA REMOVAL
 
 
-![delete of saved data from sql](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/29a3138a-d37f-463a-9f06-45a08160038f)
+
+![delete of saved data from sql](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/ab2c6421-acce-4aba-b853-b52086c4cf72)
 
 
 # Result
