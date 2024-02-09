@@ -64,9 +64,9 @@ Overall, Bizcard aims to streamline and automate the process of extracting key d
 In this project we can able to  extract text data ,Image data from business card and we can able to modify the details of the business card by using EASYOCR and for collected data storage I have used SQLLITE3.
 
 # For Any query
-Project done by : Ramanaathan Srinivasan
-Email id :Ramanaathan1@gmail.com
-Linkedin : https://www.linkedin.com/in/ramanaathan-s-61425117b/
+# Project done by : Ramanaathan Srinivasan
+# Email id :Ramanaathan1@gmail.com
+# Linkedin : https://www.linkedin.com/in/ramanaathan-s-61425117b/
 
 
 
