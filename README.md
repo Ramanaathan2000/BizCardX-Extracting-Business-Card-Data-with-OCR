@@ -37,3 +37,27 @@ Processed data is stored in a SQL database for easy access and retrieval.
 Users can view the extracted information from business cards via the Streamlit interface, allowing for quick verification and review.
 
 Overall, Bizcard aims to streamline and automate the process of extracting key details from business card images, enhancing efficiency and accuracy in managing business card information.
+
+# STEP BY STEP PROCESS OF PROJECT EXPLANATION
+# ABOUT
+
+![ABOUT ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/b030d1a4-bbb3-49d5-9c7c-33ed235b6cf6) 
+
+# BEFORE UPLOADING BUSINESS CARD 
+![Before uploading business card](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/1bb7c1a9-99b2-41b3-a63b-f035b52e76cd)
+
+# AFTER UPLOADING BUSINESS CARD 
+
+![After uploading business card ](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/b9ba6166-f351-47e2-ac37-75836c97d998)
+
+# MODIFING OF BUSINESS CARD DATA DETAILS
+
+![Modification of business card data](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/4fec75ad-46ea-4cd5-9a64-6b3346e41f3a)
+
+# DATA REMOVAL
+
+
+![delete of saved data from sql](https://github.com/Ramanaathan2000/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/113617103/29a3138a-d37f-463a-9f06-45a08160038f)
+
+
+
