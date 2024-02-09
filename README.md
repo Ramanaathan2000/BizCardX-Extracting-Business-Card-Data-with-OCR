@@ -74,6 +74,7 @@ In this project we can able to  extract text data ,Image data from business card
 # Project done by : Ramanaathan Srinivasan
 # Email id :Ramanaathan1@gmail.com
 # Linkedin : https://www.linkedin.com/in/ramanaathan-s-61425117b/
+# Project demo link : https://youtu.be/IG2fr3o5CHI
 
 
 
